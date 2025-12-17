@@ -25,6 +25,13 @@ Credit unions using Dynamics 365 often struggle with generic CRM entities that d
 ## Governance
 Service360 follows a core maintainer model led by **CUFitt**, with open contributions via pull requests.
 
+## Project Steward
+CUFitt Service360 is created and maintained by **Sai Turlapati**,  
+Microsoft MVP and founder of **CUFitt**.
+
+The project follows a stewarded open-source model, with CUFitt acting
+as the long-term maintainer and roadmap owner.
+
 ## License
 MIT License
 
